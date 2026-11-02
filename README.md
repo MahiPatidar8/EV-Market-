@@ -393,8 +393,3 @@ Twelve checks were run on the repository's own files (2 November 2026) using Pyt
 ---
 
 _EV Market Performance Insights — Project Report, November 2026._
-
-
----
-
-_EV Market Performance Insights — Project Report, November 2026._
